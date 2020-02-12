@@ -15,6 +15,16 @@
     "discordId": ""
   },
   {
+    "name": "DanWan",
+    "allyCode": "129329453",
+    "discordId": ""
+  },
+  {
+    "name": "Krognar",
+    "allyCode": "893827132",
+    "discordId": ""
+  },
+  {
     "name": "Devyatka",
     "allyCode": "685524996",
     "discordId": ""
@@ -92,11 +102,6 @@
   {
     "name": "Mace Wadge",
     "allyCode": "411176985",
-    "discordId": ""
-  },
-  {
-    "name": "Dan Wan",
-    "allyCode": "129329453",
     "discordId": ""
   }
 ]
